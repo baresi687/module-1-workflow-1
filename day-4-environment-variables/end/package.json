@@ -1,0 +1,14 @@
+{
+  "name": "environment-variables-end",
+  "version": "1.0.0",
+  "description": "learning about environment variables",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hesham el masry",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
