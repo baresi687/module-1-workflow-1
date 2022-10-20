@@ -14,4 +14,12 @@ We will be using env to secure our important key variables
 
 When staging Env variables are set
 
+## https://env-variables-example-staging.netlify.app/
+
 ![CleanShot 2022-10-20 at 22 11 33@2x](https://user-images.githubusercontent.com/15607302/197048394-9a155af3-b496-4bca-a4b9-611e3b43dd0e.png)
+
+
+## https://env-variables-example-production.netlify.app/
+
+
+![CleanShot 2022-10-20 at 22 13 02@2x](https://user-images.githubusercontent.com/15607302/197048686-1cff9382-9160-4be7-ad35-341675d84d31.png)
