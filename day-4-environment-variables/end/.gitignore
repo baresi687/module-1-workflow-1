@@ -1,3 +1,9 @@
 /node_modules
-.env
+# Local development
 *.env
+*.env.staging
+*.env.production
+*.env.development
+
+*.dev
+.DS_Store
