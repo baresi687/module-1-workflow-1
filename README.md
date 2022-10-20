@@ -12,3 +12,6 @@ Using Git as a source code management tool has become an essential skill for all
 We will be using env to secure our important key variables
 
 
+When staging Env variables are set
+
+![CleanShot 2022-10-20 at 22 11 33@2x](https://user-images.githubusercontent.com/15607302/197048394-9a155af3-b496-4bca-a4b9-611e3b43dd0e.png)
